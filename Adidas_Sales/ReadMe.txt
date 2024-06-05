@@ -35,10 +35,9 @@ Various analyses were conducted on the data, and visualizations were created to 
 - Leading retailer per state
 
 ### Sample Visualizations
-![Monthly Sales Trends](images/MonthlySales.png)
-![Sales by Region](images/SalesByRegion.png)
-![Leading Gender in Sales](images/LeadingGenderSales.png)
-![Leading Retailer by State](images/LeadingRetailer.png)
+![Sales by Region](images/adidas_sales_by_region.jpg)
+![Sales and Profit Over Time](images/adidas_sales_profit_time.jpg)
+![Total Sales by State](images/adidas_total_sales_Bystate.jpg)
 
 ## Usage
 To run the project, you need to have the following installed:
