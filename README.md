@@ -1,33 +1,24 @@
 # DS-Project-Portfolio
 
-Welcome to my Data Science Project Portfolio! This repository contains a collection of data science projects that I have completed during my time at the University of Oregon, as well as personal projects. These projects showcase a variety of skills and techniques in data science, including data cleaning, SQL, Python, machine learning, and data visualization.
+Welcome to my Data Science Project Portfolio! This repository contains a collection of data science projects completed during my time at the University of Oregon and personal projects. These projects showcase a variety of skills in data cleaning, SQL, Python, machine learning, and data visualization.
 
 ## Projects Overview
 
-1. **Project Title 1**
-   - **Overview:** Brief description of the project.
-   - **Objectives:** Key goals of the project.
-   - **Skills Utilized:** Data cleaning, SQL, Python, machine learning, data visualization.
-   - **Key Takeaways:** What I learned and the impact of the project.
+### [Adidas Sales Analysis and Visualization](link-to-project)
+- **Overview:** Cleaned Adidas Sales dataset, designed SQL schema, populated PostgreSQL tables, and performed comprehensive data analysis with visualizations.
+- **Skills:** Data preprocessing, SQL, Python, SQLAlchemy, data visualization.
 
-2. **Project Title 2**
-   - **Overview:** Brief description of the project.
-   - **Objectives:** Key goals of the project.
-   - **Skills Utilized:** Data cleaning, SQL, Python, machine learning, data visualization.
-   - **Key Takeaways:** What I learned and the impact of the project.
+### [Predicting Flight Delays](link-to-project)
+- **Overview:** Predicted flight delays using logistic regression and classification techniques, with extensive EDA and model evaluation.
+- **Skills:** Data cleaning, EDA, data visualization, model development using Scikit-learn.
 
-3. **Project Title 3**
-   - **Overview:** Brief description of the project.
-   - **Objectives:** Key goals of the project.
-   - **Skills Utilized:** Data cleaning, SQL, Python, machine learning, data visualization.
-   - **Key Takeaways:** What I learned and the impact of the project.
+### [Food Safety Project](link-to-project)
+- **Overview:** Investigated restaurant food safety scores in San Francisco, focusing on data cleaning and exploratory data analysis.
+- **Skills:** Data cleaning, EDA, data visualization using Pandas, Matplotlib, Seaborn.
 
-## Skills Highlighted
-- **Data Cleaning:** Techniques to preprocess and clean data for analysis.
-- **SQL:** Database querying and manipulation.
-- **Python:** Programming language used for various data science tasks.
-- **Machine Learning:** Implementation of various ML algorithms.
-- **Data Visualization:** Creating visualizations to communicate data insights.
+### [Wellbeing and Lifestyle Project](link-to-project)
+- **Overview:** Analyzed Wellbeing and Lifestyle dataset, built and trained machine learning models, and created visualizations to gain insights.
+- **Skills:** Data preprocessing, machine learning (Logistic Regression, SVM, Decision Tree, Random Forest, Neural Network), Python, data visualization.
 
 ## Contact
 Feel free to reach out to me if you have any questions or would like to collaborate on a project!
