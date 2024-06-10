@@ -62,10 +62,10 @@ Various analyses were conducted on the data, and visualizations were created to 
 
 ## Sample Visualizations
 
-![Neural Network Performance Metrics](Images/train_val_test_NN_proj3.png)
 ![SVM Confusion Matrix](Images/SVM_CM_proj3.png)
 ![Random Forest Confusion Matrix](Images/RF_proj3.png)
 ![Neural Network Training and Validation Error](Images/NN_train_val_error_proj3.png)
+![Neural Network Performance Metrics](Images/train_val_test_NN_proj3.png)
 
 ## Usage
 
