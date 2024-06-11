@@ -1,6 +1,8 @@
 # DS-Project-Portfolio
 
-Welcome to my Data Science Project Portfolio! This repository contains a collection of data science projects completed during my time at the University of Oregon and personal projects. These projects showcase a variety of skills in data cleaning, SQL, Python, machine learning, and data visualization.
+Welcome to my Data Science Project Portfolio on Github! This repository contains a collection of data science projects completed during my time at the University of Oregon and personal projects. These projects showcase a variety of skills in data cleaning, SQL, Python, machine learning, and data visualization.
+**More about me and my projects here:** ![image](https://github.com/maxmichelon/DS-Project-Portfolio/assets/128748451/29545363-c89a-4caf-b1b7-1976c527abff)**
+
 
 ## Projects Overview
 
